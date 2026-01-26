@@ -14,3 +14,7 @@ What I listen to <br />
 [:heart: Sponsor](https://github.com/sponsors/AuroraLilly)
 
 <!-- sponsors --><!-- sponsors -->
+
+## Other Things
+[NoodleZilla ~ Artist of my PFP ❤️](https://noodlezilla.carrd.co/) <br />
+[Morr0ne ~ Amazing Rust Dev ~ I Sponsor Her](https://github.com/morr0ne)
