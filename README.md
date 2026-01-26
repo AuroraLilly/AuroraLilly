@@ -8,7 +8,7 @@ AI has tilted me so much that I can't use it anymore so im refactoring my stuff 
 [AWC](https://github.com/AuroraLilly/awc) - A small project to add websockets support to audacity <br />
 [My.Pronou.nz](https://github.com/AuroraLilly/my.pronou.nz) - A nicer link shortner with better embedding for en.pronouns.page <br />
 
-What I listen to \/ <br />
+What I listen to <br />
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=SupernovaWolf)
 
 [:heart: Sponsor](https://github.com/sponsors/AuroraLilly)
