@@ -3,6 +3,9 @@ Kia Ora I'm Lilly, <br />
 I do dev sometimes. Studying Computer Science and Psycology in NZ <br />
 AI has tilted me so much that I can't use it anymore so im refactoring my stuff that has used ai 😭 (See my commits in auroralilly/totalcollapse 1 min of code for 7 and a half hours of debugging). <br />
 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+
 ## My Projects
 [Total Collapse](https://github.com/AuroraLilly/totalcollapse) - A map for Marathon (2026) with sharing and doodle support <br />
 [AWC](https://github.com/AuroraLilly/awc) - A small project to add websockets support to audacity <br />
