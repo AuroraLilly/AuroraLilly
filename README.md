@@ -17,4 +17,4 @@ AI has tilted me so much that I can't use it anymore so im refactoring my stuff 
 
 ## Other Things
 [NoodleZilla ~ Artist of my PFP ❤️](https://noodlezilla.carrd.co/) <br />
-[Morr0ne ~ Amazing Rust Dev ~ I Sponsor Her](https://github.com/morr0ne)
+[puppymati ~ Amazing Rust Dev ~ I Sponsor Her](https://github.com/morr0ne)
