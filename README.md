@@ -1,5 +1,5 @@
-# Lilly
-Kia Ora I'm Lilly, <br />
+# Beatrice
+Kia Ora I'm Beatrice, <br />
 I do dev sometimes. Studying Computer Science and Psycology in NZ <br />
 AI has tilted me so much that I can't use it anymore so im refactoring my stuff that has used ai 😭 (See my commits in auroralilly/totalcollapse 1 min of code for 7 and a half hours of debugging). <br />
 
